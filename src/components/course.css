@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none
+}
+
+.App{
+    width:60%;
+    margin: 10px auto;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #ddd;
+    text-align: center;
+    font-size: 22px;
+}
+h2{
+    margin-bottom: 30px;
+}
+form{
+    padding-bottom: 30px;
+}
+ul{
+    list-style: none;
+}
+input{
+    width:30%;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+button{
+    width: 10%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #fff; 
+    margin: 3px;
+}
